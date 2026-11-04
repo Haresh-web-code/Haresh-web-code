@@ -71,13 +71,15 @@ Pokédex-style front-end project focused on layout and CSS.
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/certificates/iframe/c3ebea43de16"><img src="cert-java.svg" width="49%" alt="HackerRank Java Foundational certificate" /></a>
-<a href="https://www.hackerrank.com/certificates/iframe/ae748c61ff87"><img src="cert-sql.svg" width="49%" alt="HackerRank SQL certificate" /></a>
-<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/IBM_Hadoop_101.pdf"><img src="cert-hadoop.svg" width="49%" alt="IBM Hadoop 101 certificate" /></a>
-<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/Claude_101.pdf"><img src="cert-claude101.svg" width="49%" alt="Anthropic Claude 101 certificate" /></a>
-<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/AI_Fluency_Framework_Foundations.pdf"><img src="cert-aifluency.svg" width="49%" alt="Anthropic AI Fluency: Framework and Foundations certificate" /></a>
+<img src="certs-strip.svg" width="100%" alt="Scrolling strip of certificates: HackerRank Java Foundational, HackerRank SQL, IBM Hadoop 101, Claude 101, AI Fluency Framework and Foundations" />
 
-<sub>Click any card to open the original certificate.</sub>
+<sub>
+<a href="https://www.hackerrank.com/certificates/iframe/c3ebea43de16">🏅 Java · HackerRank</a> &nbsp;·&nbsp;
+<a href="https://www.hackerrank.com/certificates/iframe/ae748c61ff87">🏅 SQL · HackerRank</a> &nbsp;·&nbsp;
+<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/IBM_Hadoop_101.pdf">📄 Hadoop 101 · IBM</a> &nbsp;·&nbsp;
+<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/Claude_101.pdf">📄 Claude 101 · Anthropic</a> &nbsp;·&nbsp;
+<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/AI_Fluency_Framework_Foundations.pdf">📄 AI Fluency · Anthropic</a>
+</sub>
 
 </div>
 
@@ -87,9 +89,11 @@ Pokédex-style front-end project focused on layout and CSS.
 
 ## Let's build something useful together
 
-<a href="https://github.com/Haresh-web-code"><img src="connect-github.svg" width="32%" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/haresh-shiva"><img src="connect-linkedin.svg" width="32%" alt="LinkedIn" /></a>
-<a href="mailto:hareshshiva05@gmail.com"><img src="connect-email.svg" width="32%" alt="Email" /></a>
+<img src="connect.svg" width="100%" alt="Terminal-style contact card with orbiting GitHub, LinkedIn and email icons" />
+
+<a href="https://github.com/Haresh-web-code">💻 GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">🔗 LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:hareshshiva05@gmail.com">✉️ hareshshiva05@gmail.com</a>
 
 <sub>I like working with people who care about craft, context and shipping the useful version.</sub>
 
