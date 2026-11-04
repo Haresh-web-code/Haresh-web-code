@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fv%3D4&variant=living-identity&label=haresh-web-code&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fv%3D4&variant=living-identity&label=haresh-web-code&v=wow-living-identity-1&mode=dark" width="100%" alt="Haresh S profile hero with avatar" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fs%3D460%26v%3D4&variant=living-identity&label=haresh-web-code&v=wow-living-identity-3&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fs%3D460%26v%3D4&variant=living-identity&label=haresh-web-code&v=wow-living-identity-3&mode=dark" width="100%" alt="Haresh S profile hero with avatar" />
 </picture>
 
 <p><strong>Computer Science Undergraduate · Aspiring Software Engineer</strong></p>
@@ -29,8 +29,8 @@ I like building useful, well-structured things, from **AI-powered backends** to 
 ## The tools behind the work
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fv%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Technology stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fs%3D460%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fs%3D460%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Technology stack" />
 </picture>
 
 <div align="center">
@@ -78,7 +78,7 @@ Pokédex-style front-end project focused on layout and CSS.
 
 <div align="center">
 
-![HackerRank Java](https://www.hackerrank.com/certificates/iframe/c3ebea43de16)
+![HackerRank Java](https://img.shields.io/badge/HackerRank-Java%20Foundational-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![IBM Hadoop 101](https://img.shields.io/badge/IBM-Hadoop%20101-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
