@@ -1,28 +1,6 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="58%" valign="middle">
-
-<sub><code>HELLO, WORLD. I'M</code></sub>
-
-# Haresh S
-
-**Computer Science Undergraduate · Aspiring Software Engineer**
-
-`Python` · `Java` · `FastAPI` · `GenAI`<br/>
-`UI/UX` · `Unreal Engine` · `Unity`
-
-<sub>Open to Associate Software Engineer / fresher roles · Chennai or remote</sub>
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="glow-avatar.svg" width="320" alt="Haresh S" />
-
-</td>
-</tr>
-</table>
+<img src="hero.svg" width="100%" alt="Haresh S, Computer Science Undergraduate and Aspiring Software Engineer" />
 
 </div>
 
@@ -105,7 +83,7 @@ Pokédex-style front-end project focused on layout and CSS.
 ## Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Haresh--web--code-181717?style=for-the-badge&logo=github)](https://github.com/Haresh-web-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haresh-shiva)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hareshshiva05@gmail.com)
 
 <sub>I like working with people who care about craft, context and shipping the useful version.</sub>
