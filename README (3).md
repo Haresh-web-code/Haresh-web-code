@@ -71,15 +71,8 @@ Pokédex-style front-end project focused on layout and CSS.
 
 <div align="center">
 
-<img src="certs-strip.svg" width="100%" alt="Scrolling strip of certificates: HackerRank Java Foundational, HackerRank SQL, IBM Hadoop 101, Claude 101, AI Fluency Framework and Foundations" />
-
-<sub>
-<a href="https://www.hackerrank.com/certificates/iframe/c3ebea43de16">🏅 Java · HackerRank</a> &nbsp;·&nbsp;
-<a href="https://www.hackerrank.com/certificates/iframe/ae748c61ff87">🏅 SQL · HackerRank</a> &nbsp;·&nbsp;
-<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/IBM_Hadoop_101.pdf">📄 Hadoop 101 · IBM</a> &nbsp;·&nbsp;
-<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/Claude_101.pdf">📄 Claude 101 · Anthropic</a> &nbsp;·&nbsp;
-<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/AI_Fluency_Framework_Foundations.pdf">📄 AI Fluency · Anthropic</a>
-</sub>
+![HackerRank Java](https://img.shields.io/badge/HackerRank-Java%20Foundational-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![IBM Hadoop 101](https://img.shields.io/badge/IBM-Hadoop%20101-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
@@ -87,13 +80,11 @@ Pokédex-style front-end project focused on layout and CSS.
 
 <div align="center">
 
-## Let's build something useful together
+## Let's connect
 
-<img src="connect.svg" width="100%" alt="Terminal-style contact card with orbiting GitHub, LinkedIn and email icons" />
-
-<a href="https://github.com/Haresh-web-code">💻 GitHub</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">🔗 LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:hareshshiva05@gmail.com">✉️ hareshshiva05@gmail.com</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Haresh--web--code-181717?style=for-the-badge&logo=github)](https://github.com/Haresh-web-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hareshshiva05@gmail.com)
 
 <sub>I like working with people who care about craft, context and shipping the useful version.</sub>
 
