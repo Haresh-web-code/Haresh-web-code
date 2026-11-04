@@ -71,8 +71,13 @@ Pokédex-style front-end project focused on layout and CSS.
 
 <div align="center">
 
-![HackerRank Java](https://img.shields.io/badge/HackerRank-Java%20Foundational-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
-![IBM Hadoop 101](https://img.shields.io/badge/IBM-Hadoop%20101-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+<a href="https://www.hackerrank.com/certificates/iframe/c3ebea43de16"><img src="cert-java.svg" width="49%" alt="HackerRank Java Foundational certificate" /></a>
+<a href="https://www.hackerrank.com/certificates/iframe/ae748c61ff87"><img src="cert-sql.svg" width="49%" alt="HackerRank SQL certificate" /></a>
+<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/IBM_Hadoop_101.pdf"><img src="cert-hadoop.svg" width="49%" alt="IBM Hadoop 101 certificate" /></a>
+<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/Claude_101.pdf"><img src="cert-claude101.svg" width="49%" alt="Anthropic Claude 101 certificate" /></a>
+<a href="https://github.com/Haresh-web-code/Haresh-web-code/blob/main/certificates/AI_Fluency_Framework_Foundations.pdf"><img src="cert-aifluency.svg" width="49%" alt="Anthropic AI Fluency: Framework and Foundations certificate" /></a>
+
+<sub>Click any card to open the original certificate.</sub>
 
 </div>
 
@@ -80,11 +85,11 @@ Pokédex-style front-end project focused on layout and CSS.
 
 <div align="center">
 
-## Let's connect
+## Let's build something useful together
 
-[![GitHub](https://img.shields.io/badge/GitHub-Haresh--web--code-181717?style=for-the-badge&logo=github)](https://github.com/Haresh-web-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haresh-shiva)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hareshshiva05@gmail.com)
+<a href="https://github.com/Haresh-web-code"><img src="connect-github.svg" width="32%" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/haresh-shiva"><img src="connect-linkedin.svg" width="32%" alt="LinkedIn" /></a>
+<a href="mailto:hareshshiva05@gmail.com"><img src="connect-email.svg" width="32%" alt="Email" /></a>
 
 <sub>I like working with people who care about craft, context and shipping the useful version.</sub>
 
