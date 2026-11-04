@@ -1,13 +1,28 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fs%3D460%26v%3D4&variant=living-identity&label=haresh-web-code&v=wow-living-identity-3&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=haresh-web-code&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222404349%3Fs%3D460%26v%3D4&variant=living-identity&label=haresh-web-code&v=wow-living-identity-3&mode=dark" width="100%" alt="Haresh S profile hero with avatar" />
-</picture>
+<table width="100%">
+<tr>
+<td width="58%" valign="middle">
 
-<p><strong>Computer Science Undergraduate · Aspiring Software Engineer</strong></p>
-<p>Python · Java · FastAPI · GenAI &nbsp;|&nbsp; UI/UX · Unreal Engine · Unity</p>
-<p><sub>Open to Associate Software Engineer / fresher roles · Chennai or remote</sub></p>
+<sub><code>HELLO, WORLD. I'M</code></sub>
+
+# Haresh S
+
+**Computer Science Undergraduate · Aspiring Software Engineer**
+
+`Python` · `Java` · `FastAPI` · `GenAI`<br/>
+`UI/UX` · `Unreal Engine` · `Unity`
+
+<sub>Open to Associate Software Engineer / fresher roles · Chennai or remote</sub>
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="glow-avatar.svg" width="320" alt="Haresh S" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -90,7 +105,7 @@ Pokédex-style front-end project focused on layout and CSS.
 ## Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Haresh--web--code-181717?style=for-the-badge&logo=github)](https://github.com/Haresh-web-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haresh-shiva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hareshshiva05@gmail.com)
 
 <sub>I like working with people who care about craft, context and shipping the useful version.</sub>
